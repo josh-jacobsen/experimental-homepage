@@ -298,7 +298,7 @@ nav.primary ul li:hover > a {
 #top-box {
   height: 50vh;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
